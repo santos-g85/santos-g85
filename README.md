@@ -13,7 +13,6 @@ I'm a **.NET Developer** passionate about building scalable enterprise solutions
 ## Current Focus
 - Mastering **domain-driven design** implementation patterns
 - Exploring **Google APIs integration** in enterprise applications
-- Improving **performance benchmarking** skills for high-traffic APIs
 
 ## Technologies & Tools
 
